@@ -45,3 +45,5 @@ gem "font-awesome-rails"
 gem 'fiddle'
 
 gem "simple_form"
+
+gem "devise"
